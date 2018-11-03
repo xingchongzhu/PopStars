@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">新消灭星星</string>
+    
+     <string name="adv_intrduce">免费赢取金币复活</string>
+    <string name="offerList">积分墙点击进入(+5)</string>
+    <string name="popAd">插屏点击进入(+5)</string>
+    <string name="shareOfferList">分享广告(+3)</string>
+    <string name="gameOfferList">游戏点击进入(+5)</string>
+    <string name="appOfferList">软件点击进入(+5)</string>
+    <string name="spendPoints">消费积分(-10)</string>
+    <string name="awardPoints">奖励金币(+10)</string>
+    <string name="feedback">用户反馈</string>
+    <string name="moreApps">自家应用(列表)</string>
+    <string name="ownAppDetail">应用推荐下载(+15)</string>
+    <string name="diyAd">点击进入(单条)下载(+10)</string>
+    <string name="diyAdList">点击进入(列表)下载(+10)</string>
+    <string name="checkUpdate">检查新版本</string>
+    <string name="currentglod">当前金币:</string>
+    
+</resources>

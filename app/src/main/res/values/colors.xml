@@ -1,0 +1,6 @@
+<resources>
+  <color name="incall_background_color">#fff7f7f7</color>
+  
+  <color name="text_glod_color">#FFC125</color>
+	<color name="text_gray_color">#EEE9E9</color>
+</resources>

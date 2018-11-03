@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_game">开始游戏</string>
+    <string name="single_click">单击</string>
+    <string name="double_click">双击</string>
+    <string name="voice">音效</string>
+    <string name="continue_click">继续</string>
+    <string name="hint">提示</string>
+    <string name="resume_game">继续游戏</string>
+    <string name="onece_again">再来一局</string>
+    <string name="exit_save_game">退出保存</string>
+    <string name="exit_game">退出游戏</string>
+    <string name="about_game">关于游戏</string>
+    <string name="on_back_exit">再按一次退出游戏</string>
+    <string name="app_name">新消灭星星</string>
+    <string name="best_score">最高分</string>
+    <string name="target_score">目标分</string>
+    <string name="guanka">关卡</string>
+    <string name="score">分数</string>
+    <string name="block_score">%1$d 块 %2$d 分</string> 
+    <string name="reward">奖励</string> 
+    <string name="surplus">剩余 %1$d 颗星</string> 
+    <string name="target_guanka">第  %1$d 关</string>
+    <string name="target_socre">目标  %1$d 分</string>  
+    <string name="die">闯关失败</string>
+    <string name="title_alert">提示信息</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="recover_life">金币复活</string>
+    <string name="message_hint">退出游戏返回主界面\n退出保存游戏后下次可以继续游戏</string>
+    <string name="glod_hint">100枚金币复活一次</string>
+    <string name="glod_no_hint">金币不足\n100枚金币复活一次</string>
+    <string name="die_hint">一百枚金币复活一次\n每次通关或有与关卡数一样的金币奖励\n如果剩余星星数量越少奖励金币越多，每次消除星星越多奖励越多。</string>
+    <string name="introduce_title">游戏介绍 </string>
+    <string name="client_feedback">用户反馈</string>
+    <string name="skip">跳过 %1$d</string>
+    <string name="checkout_new_edition">检测最新版本</string>
+    <string name="introduce_content">
+        1.复活：\n
+        	100金币复活1次\n
+        2.金币奖励规则：\n
+			(1)通关奖励金币\n
+			(2)每次消除超过8颗星星奖励金币\n
+			(3)当前关卡剩余星星数小于10奖励金币\n
+		3.玩法:\n
+			(1)单击\n
+			(2)双击\n
+		</string>
+    <string name="introduce_game">游戏说明 </string>
+    <string name="introduce_game_content">
+         1.专为提升个人技术\n
+        2.该游戏为个人爱好开发\n
+        3.减少广告提升用户体验\n
+        4.做一款用户喜欢的游戏\n
+        5.邮箱:3027755383@qq.com\n
+		</string>
+		
+    <string name="adv_intrduce">免费赢取金币复活</string>
+    <string name="offerList">积分墙点击进入(+5)</string>
+    <string name="popAd">插屏点击进入(+5)</string>
+    <string name="shareOfferList">分享广告(+3)</string>
+    <string name="gameOfferList">游戏点击进入(+5)</string>
+    <string name="appOfferList">软件点击进入(+5)</string>
+    <string name="spendPoints">消费积分(-10)</string>
+    <string name="awardPoints">奖励金币(+10)</string>
+    <string name="feedback">用户反馈</string>
+    <string name="moreApps">自家应用(列表)</string>
+    <string name="ownAppDetail">应用推荐下载(+15)</string>
+    <string name="diyAd">点击进入(单条)下载(+10)</string>
+    <string name="diyAdList">点击进入(列表)下载(+10)</string>
+    <string name="checkUpdate">检查新版本</string>
+    <string name="currentglod">当前金币:</string>
+    <string name="noassined">暂无任务</string>
+    <string name="net_not_work">当前网络不可用</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" >
+
+    <LinearLayout
+        android:id="@+id/context"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/text_18"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/introduce_game"
+            android:textStyle="bold"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/message"
+                style="@style/text_18"
+                android:layout_width="fill_parent"
+                android:layout_gravity="center"
+            	android:gravity="center"
+                android:layout_height="wrap_content"
+                android:lineSpacingMultiplier="1.5"
+                android:text="@string/introduce_game_content" />
+        </LinearLayout>
+    </LinearLayout>
+    
+     <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="20dp"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/feedbackButton"
+                style="@style/text_18"
+                
+                android:layout_width="0dp"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+            	android:gravity="center"
+            	android:background="@drawable/btn_cancel_selector"
+                android:layout_height="30dp"
+                android:lineSpacingMultiplier="1.5"
+                android:text="@string/client_feedback" />
+            <TextView
+                android:id="@+id/checkout_new_edition"
+                style="@style/text_18"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+            	android:gravity="center"
+                android:layout_height="30dp"
+                android:background="@drawable/btn_cancel_selector"
+                android:lineSpacingMultiplier="1.5"
+                android:text="@string/checkout_new_edition" />
+        </LinearLayout>
+
+</RelativeLayout>
